@@ -1,4 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
+import os
+
 
 # Buka gambar dari folder input_images
 image_path = "input_images/sample.jpg"
